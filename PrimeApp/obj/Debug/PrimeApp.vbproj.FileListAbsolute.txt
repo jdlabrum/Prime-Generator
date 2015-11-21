@@ -1,0 +1,10 @@
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\bin\Debug\PrimeApp.exe.config
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\bin\Debug\PrimeApp.exe
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\bin\Debug\PrimeApp.pdb
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\bin\Debug\PrimeApp.xml
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.Form1.resources
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.Resources.resources
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.vbproj.GenerateResource.Cache
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.exe
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.xml
+c:\users\ryukopron\documents\visual studio 2013\Projects\PrimeApp\PrimeApp\obj\Debug\PrimeApp.pdb
